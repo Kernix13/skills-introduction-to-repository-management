@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Kernix13
+/src/backend/database.py      @Kernix13
+/src/backend/routers/auth.py  @Kernix13
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Kernix13
